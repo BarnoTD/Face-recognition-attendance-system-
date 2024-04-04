@@ -48,5 +48,14 @@ step 1 :
 
 
 Step 2 :
-Download the mp.py 
+Download the face_recognition.zip file
+
+Step 3: 
+extract zib in your pc 
+
+Step 4 :
+Upload Photos of students( name of photo should be name of the person or student ) for the database in photos folder.
+
+step 5 :
+Run the mp.py file.
 
