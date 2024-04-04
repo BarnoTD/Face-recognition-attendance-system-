@@ -20,7 +20,7 @@ step 1 :
           https://git-scm.com/download/win
         
   Step 2: Clone this repository and go inside the folder using the following commands
-          git clone https://github.com/RvTechiNNovate/face_recog_dlib_file.gitcd face_recog_dlib_file
+          git clone https://github.com/RvTechiNNovate/face_recog_dlib_file.gitcdface_recog_dlib_file
 
   Step 3: Enter the following command to install dlib and cmake using pip 
           Python 3.7:
