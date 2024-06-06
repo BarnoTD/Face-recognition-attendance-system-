@@ -1,0 +1,17 @@
+cmake==3.29.3
+
+#manual installation
+dlib @ file:///C:/Users/Esapace_info/Documents/Coding%20%26%20Stuff/Face-recognition-attendance-system-/dlib-19.24.99-cp312-cp312-win_amd64.whl#sha256=20c62e606ca4c9961305f7be3d03990380d3e6c17f8d27798996e97a73271862
+
+face-recognition==1.3.0
+
+#manual installation
+face_recognition_models @ file:///C:/Users/Esapace_info/Downloads/face_recognition_models-master/face_recognition_models-master
+/numpy==1.26.4
+
+opencv-python==4.9.0.80
+opencv-python-headless==4.10.0.82
+openpyxl==3.1.3
+pillow==10.3.0
+tk==0.1.0
+wheel==0.43.0
